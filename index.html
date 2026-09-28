@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- Title & Basic SEO Meta Tags -->
+    <title>GREEN CRACKERS | Sivakasi - Direct Factory Wholesale & Retail</title>
+    <meta name="description"
+        content="Buy premium quality Sivakasi green firecrackers online directly from factory at Flat 75% OFF. Fancy fireworks, sparklers, and matches.">
+    <meta name="keywords"
+        content="Green Crackers, Sivakasi crackers online, buy crackers, diwali crackers, wholesale crackers, sparklers, ground chakkars, flower pots, fancy fireworks">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <meta name="author" content="Green Crackers Sivakasi">
+
+    <!-- Favicon (Fixed with cache bust and multi-format support) -->
+    <link rel="icon" type="image/png" sizes="32x32" href="logo.png?v=2">
+    <link rel="icon" type="image/png" sizes="16x16" href="logo.png?v=2">
+    <link rel="shortcut icon" href="logo.png?v=2" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="logo.png?v=2">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="GREEN CRACKERS">
+    <meta property="og:locale" content="en_IN">
+    <meta property="og:title" content="GREEN CRACKERS - Sivakasi Wholesale Firecrackers">
+    <meta property="og:description"
+        content="Whole Sale & Retail Crackers, Fancy Fireworks, Sparklers & Matches. Direct factory prices at Flat 75% OFF!">
+    <meta property="og:image" content="logo.png">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="GREEN CRACKERS | Sivakasi Fireworks">
+    <meta name="twitter:description"
+        content="Wholesale & Retail Fireworks directly from Sivakasi. Flat 75% Discount on all crackers. Order online!">
+    <meta name="twitter:image" content="logo.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="top-share-bar">
+        <button onclick="shareStoreOnWhatsApp()" class="share-btn-top">
+            📲 Share Store on WhatsApp
+        </button>
+    </div>
+
+    <header>
+        <div class="container">
+            <img src="logo.png" alt="Green Crackers Logo" class="shop-logo">
+            <h1>GREEN CRACKERS</h1>
+            <p class="motto">WHOLESALE & RETAIL • FANCY FIREWORKS • SPARKLERS & MATCHES</p>
+            <p class="sub-address">1/661/B4/D, Thendral Nagar, Vilampatti Road, SIVAKASI</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Customer Details Section -->
+        <div class="customer-section">
+            <div class="form-grid">
+                <div class="input-group">
+                    <input type="text" id="custName" placeholder="Your Name *" required minlength="3">
+                    <small class="error-msg">Name must be at least 3 letters</small>
+                </div>
+
+                <div class="input-group">
+                    <input type="tel" id="custPhone" placeholder="10-Digit WhatsApp Number *" required
+                        pattern="[0-9]{10}">
+                    <small class="error-msg">Enter a valid 10-digit number</small>
+                </div>
+
+                <div class="input-group">
+                    <input type="email" id="custEmail" placeholder="Email Address *" required>
+                    <small class="error-msg">Enter a valid email address</small>
+                </div>
+
+                <div class="input-group full-width">
+                    <textarea id="custAddress" placeholder="Full Address with Pincode *" rows="2" required
+                        minlength="10"></textarea>
+                    <small class="error-msg">Please provide a detailed address</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Horizontal Scroll Categories -->
+        <nav id="category-nav" class="category-nav"></nav>
+
+        <!-- Product List -->
+        <div id="product-list"></div>
+    </div>
+
+    <!-- Sticky Cart Footer -->
+    <div class="cart-bar">
+        <div class="cart-container">
+            <div class="cart-left">
+                <span id="itemCount">0</span> Items | <span class="total-display">₹<span id="netTotal">0</span></span>
+            </div>
+            <button class="checkout-btn" onclick="showModal()">ORDER NOW</button>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="checkoutModal" class="modal">
+        <div class="modal-content">
+            <span onclick="closeModal()" class="close-x">&times;</span>
+            <h3 style="color:#206634; margin-top: 5px;">Confirm Order</h3>
+
+            <div class="payment-box">
+                <strong class="payment-details">Bank & Payment Details:</strong><br>
+                <strong>G-Pay / PhonePe:</strong> 99948 75171<br>
+                <strong>Bank Name:</strong> Tamilnadu Mercantile Bank<br>
+                <strong>A/c Name:</strong> MUTHUKRISHNAMOORTHY A<br>
+                <strong>A/c No.:</strong> 435100050301021<br>
+                <strong>IFSC Code:</strong> TMBL0000435<br>
+                <strong>Email:</strong> mutthu.murthy@gmail.com
+            </div>
+
+            <!-- WhatsApp Button -->
+            <button onclick="submitOrder('whatsapp')" class="checkout-btn"
+                style="width:100%; margin-bottom:12px; padding:15px; font-size:1rem;">
+                SEND VIA WHATSAPP
+            </button>
+
+            <!-- Email Button -->
+            <button onclick="submitOrder('email')"
+                style="width:100%; background:#2c3e50; color:white; border:none; padding:15px; border-radius:10px; font-weight:bold; cursor:pointer; margin-bottom:10px; font-size:0.95rem;">
+                SEND VIA EMAIL
+            </button>
+
+            <button onclick="shareStoreOnWhatsApp()" class="share-btn"
+                style="background:#25D366; color:white; border:none; padding:10px 18px; border-radius:8px; font-weight:bold; cursor:pointer; margin: 12px auto 0; display:block;">
+                📲 Share Store on WhatsApp
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

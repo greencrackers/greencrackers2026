@@ -1,0 +1,3842 @@
+[
+  {
+    "#": "1",
+    "SKU": "CK-0486",
+    "Product": "10 Wala",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹22",
+    "Disc %": "75%",
+    "Rate": "₹5.50"
+  },
+  {
+    "#": "2",
+    "SKU": "CK-0043",
+    "Product": "2.75 Inches Kuruvi (10PKT)",
+    "Brand": "Krishna",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹55",
+    "Disc %": "75%",
+    "Rate": "₹13.75"
+  },
+  {
+    "#": "3",
+    "SKU": "CK-0405",
+    "Product": "2.45 Inches Kuruvi",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹35",
+    "Disc %": "75%",
+    "Rate": "₹8.80"
+  },
+  {
+    "#": "4",
+    "SKU": "CK-0487",
+    "Product": "2 Inches Lakshmi",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹22",
+    "Disc %": "75%",
+    "Rate": "₹5.50"
+  },
+  {
+    "#": "5",
+    "SKU": "CK-0406",
+    "Product": "3.5 Inches Lakshmi",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹53",
+    "Disc %": "75%",
+    "Rate": "₹13.20"
+  },
+  {
+    "#": "6",
+    "SKU": "CK-0408",
+    "Product": "4 Inches Deluxe (10Paper)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹123",
+    "Disc %": "75%",
+    "Rate": "₹30.80"
+  },
+  {
+    "#": "7",
+    "SKU": "CK-0409",
+    "Product": "4 Inches Gold Lakshmi (12 Paper)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹141",
+    "Disc %": "75%",
+    "Rate": "₹35.20"
+  },
+  {
+    "#": "8",
+    "SKU": "CK-0448",
+    "Product": "4 Inches Gold Special",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹242",
+    "Disc %": "75%",
+    "Rate": "₹60.50"
+  },
+  {
+    "#": "9",
+    "SKU": "CK-0407",
+    "Product": "4 Inches Lakshmi",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹70",
+    "Disc %": "75%",
+    "Rate": "₹17.60"
+  },
+  {
+    "#": "10",
+    "SKU": "CK-0410",
+    "Product": "4 Inches Titan Thanos Mega DLX (20 Paper)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹242",
+    "Disc %": "75%",
+    "Rate": "₹60.50"
+  },
+  {
+    "#": "11",
+    "SKU": "CK-0044",
+    "Product": "5 Inches DLX Panda",
+    "Brand": "Krishna",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹180",
+    "Disc %": "75%",
+    "Rate": "₹45.10"
+  },
+  {
+    "#": "12",
+    "SKU": "CK-0412",
+    "Product": "5 Inches Gold Nattiya DLX (12 Paper)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹154",
+    "Disc %": "75%",
+    "Rate": "₹38.50"
+  },
+  {
+    "#": "13",
+    "SKU": "CK-0411",
+    "Product": "5 Inches Hulk/Lakshmi/Royal Lion (12 Paper)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹154",
+    "Disc %": "75%",
+    "Rate": "₹38.50"
+  },
+  {
+    "#": "14",
+    "SKU": "CK-0413",
+    "Product": "5 Inches Sivaji (20 Paper)",
+    "Brand": "Nature",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹264",
+    "Disc %": "75%",
+    "Rate": "₹66.00"
+  },
+  {
+    "#": "15",
+    "SKU": "CK-0414",
+    "Product": "6 Inches Warrior/Lakshmi/Bull (16 Paper)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹211",
+    "Disc %": "75%",
+    "Rate": "₹52.80"
+  },
+  {
+    "#": "16",
+    "SKU": "CK-0492",
+    "Product": "Adiyal 1KG",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "17",
+    "SKU": "CK-0490",
+    "Product": "Adiyal 30 Paper",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹198",
+    "Disc %": "75%",
+    "Rate": "₹49.50"
+  },
+  {
+    "#": "18",
+    "SKU": "CK-0491",
+    "Product": "Adiyal 60 Paper",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "19",
+    "SKU": "CK-0239",
+    "Product": "Basket Bomb",
+    "Brand": "Ravindra",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹330",
+    "Disc %": "75%",
+    "Rate": "₹82.50"
+  },
+  {
+    "#": "20",
+    "SKU": "CK-0458",
+    "Product": "Big Colour Paper Bomb",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹704",
+    "Disc %": "75%",
+    "Rate": "₹176.00"
+  },
+  {
+    "#": "21",
+    "SKU": "CK-0400",
+    "Product": "Bijili (100PCS)",
+    "Brand": "Showmya Narayana",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹136",
+    "Disc %": "75%",
+    "Rate": "₹34.10"
+  },
+  {
+    "#": "22",
+    "SKU": "CK-0560",
+    "Product": "Bijili (100PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹110",
+    "Disc %": "75%",
+    "Rate": "₹27.50"
+  },
+  {
+    "#": "23",
+    "SKU": "CK-0399",
+    "Product": "Bijili (50PCS)",
+    "Brand": "Showmya Narayana",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹68",
+    "Disc %": "75%",
+    "Rate": "₹17.05"
+  },
+  {
+    "#": "24",
+    "SKU": "CK-0559",
+    "Product": "Bijili (50PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹53",
+    "Disc %": "75%",
+    "Rate": "₹13.20"
+  },
+  {
+    "#": "25",
+    "SKU": "CK-0416",
+    "Product": "Bijili.Red (100PCS)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹132",
+    "Disc %": "75%",
+    "Rate": "₹33.00"
+  },
+  {
+    "#": "26",
+    "SKU": "CK-0415",
+    "Product": "Bijili.Red (50PCS)",
+    "Brand": "Ravi",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹66",
+    "Disc %": "75%",
+    "Rate": "₹16.50"
+  },
+  {
+    "#": "27",
+    "SKU": "CK-0450",
+    "Product": "Colour Deluxe Bijili (25PCS)",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹506",
+    "Disc %": "75%",
+    "Rate": "₹126.50"
+  },
+  {
+    "#": "28",
+    "SKU": "CK-0067",
+    "Product": "Jack Pot",
+    "Brand": "Krishna",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹1188",
+    "Disc %": "75%",
+    "Rate": "₹297.00"
+  },
+  {
+    "#": "29",
+    "SKU": "CK-0558",
+    "Product": "Mapla Veddi",
+    "Brand": "Crackerskart",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹440",
+    "Disc %": "75%",
+    "Rate": "₹110.00"
+  },
+  {
+    "#": "30",
+    "SKU": "CK-0460",
+    "Product": "Robo 2 Paper Bomb (10PCS)",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹1914",
+    "Disc %": "75%",
+    "Rate": "₹478.50"
+  },
+  {
+    "#": "31",
+    "SKU": "CK-0459",
+    "Product": "Robo Paper Bomb (10PCS)",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹1430",
+    "Disc %": "75%",
+    "Rate": "₹357.50"
+  },
+  {
+    "#": "32",
+    "SKU": "CK-0456",
+    "Product": "Sandiyar-1",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "33",
+    "SKU": "CK-0457",
+    "Product": "Sandiyar-2",
+    "Brand": "Vadakampatti",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "34",
+    "SKU": "CK-0401",
+    "Product": "Stripped Bijili (100PCS)",
+    "Brand": "Showmya Narayana",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹145",
+    "Disc %": "75%",
+    "Rate": "₹36.30"
+  },
+  {
+    "#": "35",
+    "SKU": "CK-0436",
+    "Product": "Three Sound Crackers",
+    "Brand": "Rajeesh",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "37",
+    "SKU": "CK-0157",
+    "Product": "Time Pass Bijili Stripped (50PCS)",
+    "Brand": "Asok",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹167",
+    "Disc %": "75%",
+    "Rate": "₹41.80"
+  },
+  {
+    "#": "38",
+    "SKU": "CK-0156",
+    "Product": "Time Pass Bijili Stripper (100PCS)",
+    "Brand": "Asok",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹290",
+    "Disc %": "75%",
+    "Rate": "₹72.60"
+  },
+  {
+    "#": "39",
+    "SKU": "CK-0297",
+    "Product": "Two Sound Crackers",
+    "Brand": "Sri Vijai",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹167",
+    "Disc %": "75%",
+    "Rate": "₹41.80"
+  },
+  {
+    "#": "40",
+    "SKU": "CK-0435",
+    "Product": "Two Sound Crackers",
+    "Brand": "Rajeesh",
+    "Category": "Bijili & Lakshmi Crackers",
+    "MRP": "₹132",
+    "Disc %": "75%",
+    "Rate": "₹33.00"
+  },
+  {
+    "#": "41",
+    "SKU": "CK-0240",
+    "Product": "A.B. Dynamite Green",
+    "Brand": "Ravindra",
+    "Category": "Bombs",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "43",
+    "SKU": "CK-0042",
+    "Product": "Atom Bomb Green",
+    "Brand": "Krishna",
+    "Category": "Bombs",
+    "MRP": "₹286",
+    "Disc %": "75%",
+    "Rate": "₹71.50"
+  },
+  {
+    "#": "44",
+    "SKU": "CK-0462",
+    "Product": "Big Bomb (4PCS)",
+    "Brand": "Vadakampatti",
+    "Category": "Bombs",
+    "MRP": "₹616",
+    "Disc %": "75%",
+    "Rate": "₹154.00"
+  },
+  {
+    "#": "46",
+    "SKU": "CK-0443",
+    "Product": "Classic Bomb",
+    "Brand": "Rajeesh",
+    "Category": "Bombs",
+    "MRP": "₹440",
+    "Disc %": "75%",
+    "Rate": "₹110.00"
+  },
+  {
+    "#": "49",
+    "SKU": "CK-0444",
+    "Product": "Digital Bomb",
+    "Brand": "Rajeesh",
+    "Category": "Bombs",
+    "MRP": "₹990",
+    "Disc %": "75%",
+    "Rate": "₹247.50"
+  },
+  {
+    "#": "50",
+    "SKU": "CK-0265",
+    "Product": "Dinosaur Bomb",
+    "Brand": "Sri Vijai",
+    "Category": "Bombs",
+    "MRP": "₹748",
+    "Disc %": "75%",
+    "Rate": "₹187.00"
+  },
+  {
+    "#": "51",
+    "SKU": "CK-0362",
+    "Product": "Goat Bomb (10PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Bombs",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "52",
+    "SKU": "CK-0441",
+    "Product": "Hydro Bomb",
+    "Brand": "Rajeesh",
+    "Category": "Bombs",
+    "MRP": "₹286",
+    "Disc %": "75%",
+    "Rate": "₹71.50"
+  },
+  {
+    "#": "54",
+    "SKU": "CK-0442",
+    "Product": "King of King Bomb",
+    "Brand": "Rajeesh",
+    "Category": "Bombs",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "55",
+    "SKU": "CK-0461",
+    "Product": "King Rider Bomb (10PCS)",
+    "Brand": "Vadakampatti",
+    "Category": "Bombs",
+    "MRP": "₹1540",
+    "Disc %": "75%",
+    "Rate": "₹385.00"
+  },
+  {
+    "#": "57",
+    "SKU": "CK-0449",
+    "Product": "Out Packet (10PCS)",
+    "Brand": "Vadakampatti",
+    "Category": "Bombs",
+    "MRP": "₹572",
+    "Disc %": "75%",
+    "Rate": "₹143.00"
+  },
+  {
+    "#": "59",
+    "SKU": "CK-0485",
+    "Product": "10 in 1 Fountain",
+    "Brand": "Cornation",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1210",
+    "Disc %": "75%",
+    "Rate": "₹302.50"
+  },
+  {
+    "#": "60",
+    "SKU": "CK-0358",
+    "Product": "1000 Riders",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹770",
+    "Disc %": "75%",
+    "Rate": "₹192.50"
+  },
+  {
+    "#": "61",
+    "SKU": "CK-0333",
+    "Product": "1000-2000 Lar",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1474",
+    "Disc %": "75%",
+    "Rate": "₹368.50"
+  },
+  {
+    "#": "62",
+    "SKU": "CK-0047",
+    "Product": "3D Pot Gold/Silver",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹246",
+    "Disc %": "75%",
+    "Rate": "₹61.60"
+  },
+  {
+    "#": "63",
+    "SKU": "CK-0058",
+    "Product": "4 Inches Tin Fountain",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹462",
+    "Disc %": "75%",
+    "Rate": "₹115.50"
+  },
+  {
+    "#": "64",
+    "SKU": "CK-0374",
+    "Product": "4 Inches Tin Fountain (2PCS)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹704",
+    "Disc %": "75%",
+    "Rate": "₹176.00"
+  },
+  {
+    "#": "65",
+    "SKU": "CK-0059",
+    "Product": "6 Inches Tin Fountain",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹770",
+    "Disc %": "75%",
+    "Rate": "₹192.50"
+  },
+  {
+    "#": "66",
+    "SKU": "CK-0375",
+    "Product": "6 Inches Tin Fountain (1PCE)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹704",
+    "Disc %": "75%",
+    "Rate": "₹176.00"
+  },
+  {
+    "#": "68",
+    "SKU": "CK-0060",
+    "Product": "8 Inches Tin Fountain",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹968",
+    "Disc %": "75%",
+    "Rate": "₹242.00"
+  },
+  {
+    "#": "69",
+    "SKU": "CK-0524",
+    "Product": "8 Inches Tin Fountain (1PCE)",
+    "Brand": "Power King",
+    "Category": "Children Special Novelties",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "70",
+    "SKU": "CK-0342",
+    "Product": "Angry Bird",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹572",
+    "Disc %": "75%",
+    "Rate": "₹143.00"
+  },
+  {
+    "#": "71",
+    "SKU": "CK-0425",
+    "Product": "Asrafic Big (5PCS)",
+    "Brand": "Ravi",
+    "Category": "Children Special Novelties",
+    "MRP": "₹132",
+    "Disc %": "75%",
+    "Rate": "₹33.00"
+  },
+  {
+    "#": "72",
+    "SKU": "CK-0259",
+    "Product": "Asrafic Fountain",
+    "Brand": "Ravindra",
+    "Category": "Children Special Novelties",
+    "MRP": "₹924",
+    "Disc %": "75%",
+    "Rate": "₹231.00"
+  },
+  {
+    "#": "73",
+    "SKU": "CK-0424",
+    "Product": "Asrafic Small (10PCS)",
+    "Brand": "Ravi",
+    "Category": "Children Special Novelties",
+    "MRP": "₹198",
+    "Disc %": "75%",
+    "Rate": "₹49.50"
+  },
+  {
+    "#": "74",
+    "SKU": "CK-0426",
+    "Product": "Asrafic Special Gold Shower (5PCS)",
+    "Brand": "Ravi",
+    "Category": "Children Special Novelties",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "75",
+    "SKU": "CK-0529",
+    "Product": "Bada Peacock",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1430",
+    "Disc %": "75%",
+    "Rate": "₹357.50"
+  },
+  {
+    "#": "79",
+    "SKU": "CK-0158",
+    "Product": "Chitter Chutter",
+    "Brand": "Asok",
+    "Category": "Children Special Novelties",
+    "MRP": "₹770",
+    "Disc %": "75%",
+    "Rate": "₹192.50"
+  },
+  {
+    "#": "80",
+    "SKU": "CK-0366",
+    "Product": "Chotta Bheem Fountain (5PCS)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹550",
+    "Disc %": "75%",
+    "Rate": "₹137.50"
+  },
+  {
+    "#": "81",
+    "SKU": "CK-0238",
+    "Product": "Chutt Putt",
+    "Brand": "Ravindra",
+    "Category": "Children Special Novelties",
+    "MRP": "₹352",
+    "Disc %": "75%",
+    "Rate": "₹88.00"
+  },
+  {
+    "#": "82",
+    "SKU": "CK-0055",
+    "Product": "Colour Bouquet",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹968",
+    "Disc %": "75%",
+    "Rate": "₹242.00"
+  },
+  {
+    "#": "91",
+    "SKU": "CK-0520",
+    "Product": "Drone",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹748",
+    "Disc %": "75%",
+    "Rate": "₹187.00"
+  },
+  {
+    "#": "92",
+    "SKU": "CK-0334",
+    "Product": "Elakkiya",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1892",
+    "Disc %": "75%",
+    "Rate": "₹473.00"
+  },
+  {
+    "#": "93",
+    "SKU": "CK-0367",
+    "Product": "Fruit Series Fountain (5PCS)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1056",
+    "Disc %": "75%",
+    "Rate": "₹264.00"
+  },
+  {
+    "#": "94",
+    "SKU": "CK-0048",
+    "Product": "Gee Boom Baa",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹528",
+    "Disc %": "75%",
+    "Rate": "₹132.00"
+  },
+  {
+    "#": "95",
+    "SKU": "CK-0470",
+    "Product": "Helicopter",
+    "Brand": "Ayyan",
+    "Category": "Children Special Novelties",
+    "MRP": "₹418",
+    "Disc %": "75%",
+    "Rate": "₹104.50"
+  },
+  {
+    "#": "97",
+    "SKU": "CK-0243",
+    "Product": "Helicopter (10PCS)",
+    "Brand": "Ravindra",
+    "Category": "Children Special Novelties",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "99",
+    "SKU": "CK-0051",
+    "Product": "Ice Fountain (Window)",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹431",
+    "Disc %": "75%",
+    "Rate": "₹107.80"
+  },
+  {
+    "#": "100",
+    "SKU": "CK-0326",
+    "Product": "Jagajal (30PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1672",
+    "Disc %": "75%",
+    "Rate": "₹418.00"
+  },
+  {
+    "#": "102",
+    "SKU": "CK-0271",
+    "Product": "Jasmine Flower (2PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Children Special Novelties",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "103",
+    "SKU": "CK-0169",
+    "Product": "Jolly Bobby (Crackling Fountain)",
+    "Brand": "Asok",
+    "Category": "Children Special Novelties",
+    "MRP": "₹2090",
+    "Disc %": "75%",
+    "Rate": "₹522.50"
+  },
+  {
+    "#": "104",
+    "SKU": "CK-0170",
+    "Product": "Jolly Bobby Mocktail (3 Different Crackling)",
+    "Brand": "Asok",
+    "Category": "Children Special Novelties",
+    "MRP": "₹2420",
+    "Disc %": "75%",
+    "Rate": "₹605.00"
+  },
+  {
+    "#": "105",
+    "SKU": "CK-0344",
+    "Product": "Kinder Pop (6PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "106",
+    "SKU": "CK-0392",
+    "Product": "Kitkat",
+    "Brand": "Showmya Narayana",
+    "Category": "Children Special Novelties",
+    "MRP": "₹92",
+    "Disc %": "75%",
+    "Rate": "₹23.10"
+  },
+  {
+    "#": "107",
+    "SKU": "CK-0328",
+    "Product": "Kunfu",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "109",
+    "SKU": "CK-0471",
+    "Product": "Lemon Tree Fountain (1PCE)",
+    "Brand": "Ayyan",
+    "Category": "Children Special Novelties",
+    "MRP": "₹550",
+    "Disc %": "75%",
+    "Rate": "₹137.50"
+  },
+  {
+    "#": "110",
+    "SKU": "CK-0272",
+    "Product": "Lollipop (3PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Children Special Novelties",
+    "MRP": "₹682",
+    "Disc %": "75%",
+    "Rate": "₹170.50"
+  },
+  {
+    "#": "111",
+    "SKU": "CK-0372",
+    "Product": "Lollipop Fountain (3PCS)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹352",
+    "Disc %": "75%",
+    "Rate": "₹88.00"
+  },
+  {
+    "#": "112",
+    "SKU": "CK-0511",
+    "Product": "Magic Pop",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹20",
+    "Disc %": "75%",
+    "Rate": "₹4.95"
+  },
+  {
+    "#": "113",
+    "SKU": "CK-0332",
+    "Product": "Magic Whip",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "115",
+    "SKU": "CK-0393",
+    "Product": "Mega Kitkat",
+    "Brand": "Showmya Narayana",
+    "Category": "Children Special Novelties",
+    "MRP": "₹176",
+    "Disc %": "75%",
+    "Rate": "₹44.00"
+  },
+  {
+    "#": "116",
+    "SKU": "CK-0253",
+    "Product": "Mega Siren",
+    "Brand": "Ravindra",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1804",
+    "Disc %": "75%",
+    "Rate": "₹451.00"
+  },
+  {
+    "#": "117",
+    "SKU": "CK-0345",
+    "Product": "Mega Tricolour Fountain",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1100",
+    "Disc %": "75%",
+    "Rate": "₹275.00"
+  },
+  {
+    "#": "118",
+    "SKU": "CK-0341",
+    "Product": "Mickey Multicolour (Asrafic)",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹264",
+    "Disc %": "75%",
+    "Rate": "₹66.00"
+  },
+  {
+    "#": "121",
+    "SKU": "CK-0331",
+    "Product": "Mini Magic Whip",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "122",
+    "SKU": "CK-0525",
+    "Product": "Mini Peacock",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹418",
+    "Disc %": "75%",
+    "Rate": "₹104.50"
+  },
+  {
+    "#": "123",
+    "SKU": "CK-0053",
+    "Product": "Moon Drops",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹431",
+    "Disc %": "75%",
+    "Rate": "₹107.80"
+  },
+  {
+    "#": "124",
+    "SKU": "CK-0343",
+    "Product": "Multicolour Shower",
+    "Brand": "Karpagaraja",
+    "Category": "Children Special Novelties",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "125",
+    "SKU": "CK-0254",
+    "Product": "Musical Crackers",
+    "Brand": "Ravindra",
+    "Category": "Children Special Novelties",
+    "MRP": "₹528",
+    "Disc %": "75%",
+    "Rate": "₹132.00"
+  },
+  {
+    "#": "126",
+    "SKU": "CK-0371",
+    "Product": "Panchathanra Fountain (5PCS)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "128",
+    "SKU": "CK-0527",
+    "Product": "Peacock (Five Face)",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹616",
+    "Disc %": "75%",
+    "Rate": "₹154.00"
+  },
+  {
+    "#": "129",
+    "SKU": "CK-0528",
+    "Product": "Peacock (Three Face)",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹528",
+    "Disc %": "75%",
+    "Rate": "₹132.00"
+  },
+  {
+    "#": "130",
+    "SKU": "CK-0236",
+    "Product": "Peacock Crackling",
+    "Brand": "Ravindra",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1012",
+    "Disc %": "75%",
+    "Rate": "₹253.00"
+  },
+  {
+    "#": "132",
+    "SKU": "CK-0270",
+    "Product": "Peacock Tail (2PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Children Special Novelties",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "133",
+    "SKU": "CK-0512",
+    "Product": "Photo Flash",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "134",
+    "SKU": "CK-0108",
+    "Product": "Pop Crunch",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "137",
+    "SKU": "CK-0483",
+    "Product": "Puppy Fountain",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹616",
+    "Disc %": "75%",
+    "Rate": "₹154.00"
+  },
+  {
+    "#": "145",
+    "SKU": "CK-0368",
+    "Product": "Snacks Fountain (5PCS)",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹748",
+    "Disc %": "75%",
+    "Rate": "₹187.00"
+  },
+  {
+    "#": "146",
+    "SKU": "CK-0596",
+    "Product": "Stone",
+    "Brand": "Crackerskart",
+    "Category": "Children Special Novelties",
+    "MRP": "₹33",
+    "Disc %": "75%",
+    "Rate": "₹8.25"
+  },
+  {
+    "#": "149",
+    "SKU": "CK-0269",
+    "Product": "Tim Tam",
+    "Brand": "Sri Vijai",
+    "Category": "Children Special Novelties",
+    "MRP": "₹290",
+    "Disc %": "75%",
+    "Rate": "₹72.60"
+  },
+  {
+    "#": "150",
+    "SKU": "CK-0050",
+    "Product": "Tiny Pot (Window)",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹431",
+    "Disc %": "75%",
+    "Rate": "₹107.80"
+  },
+  {
+    "#": "151",
+    "SKU": "CK-0380",
+    "Product": "Tricolour Fountain",
+    "Brand": "Amarnath",
+    "Category": "Children Special Novelties",
+    "MRP": "₹990",
+    "Disc %": "75%",
+    "Rate": "₹247.50"
+  },
+  {
+    "#": "155",
+    "SKU": "CK-0066",
+    "Product": "Yog Smoke",
+    "Brand": "Krishna",
+    "Category": "Children Special Novelties",
+    "MRP": "₹1485",
+    "Disc %": "75%",
+    "Rate": "₹371.25"
+  },
+  {
+    "#": "156",
+    "SKU": "CK-0563",
+    "Product": "Anaconda",
+    "Brand": "Crackerskart",
+    "Category": "Colour Matches & Egg Serpents",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "158",
+    "SKU": "CK-0137",
+    "Product": "Dino Maha Jothi (7IN1)Colour Matchs",
+    "Brand": "Meenambal",
+    "Category": "Colour Matches & Egg Serpents",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "160",
+    "SKU": "CK-0576",
+    "Product": "Egg Serpent Big",
+    "Brand": "Sonny",
+    "Category": "Colour Matches & Egg Serpents",
+    "MRP": "₹182",
+    "Disc %": "75%",
+    "Rate": "₹45.38"
+  },
+  {
+    "#": "161",
+    "SKU": "CK-0561",
+    "Product": "Egg Serpent Small",
+    "Brand": "Crackerskart",
+    "Category": "Colour Matches & Egg Serpents",
+    "MRP": "₹66",
+    "Disc %": "75%",
+    "Rate": "₹16.50"
+  },
+  {
+    "#": "162",
+    "SKU": "CK-0141",
+    "Product": "Globe Gems Colour Matchs",
+    "Brand": "Globe",
+    "Category": "Colour Matches & Egg Serpents",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "163",
+    "SKU": "CK-0142",
+    "Product": "Globe Mega Colour Matchs",
+    "Brand": "Globe",
+    "Category": "Colour Matches & Egg Serpents",
+    "MRP": "₹924",
+    "Disc %": "75%",
+    "Rate": "₹231.00"
+  },
+  {
+    "#": "174",
+    "SKU": "CK-0501",
+    "Product": "10-T-Short",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹4752",
+    "Disc %": "75%",
+    "Rate": "₹1188.00"
+  },
+  {
+    "#": "175",
+    "SKU": "CK-0502",
+    "Product": "10X-Red Chilli",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹3080",
+    "Disc %": "75%",
+    "Rate": "₹770.00"
+  },
+  {
+    "#": "176",
+    "SKU": "CK-0430",
+    "Product": "2.45 Inches 100DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹968",
+    "Disc %": "75%",
+    "Rate": "₹242.00"
+  },
+  {
+    "#": "178",
+    "SKU": "CK-0428",
+    "Product": "2.45 Inches 32DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "179",
+    "SKU": "CK-0429",
+    "Product": "2.45 Inches 50DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "180",
+    "SKU": "CK-0434",
+    "Product": "4 Inches 100DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹1386",
+    "Disc %": "75%",
+    "Rate": "₹346.50"
+  },
+  {
+    "#": "181",
+    "SKU": "CK-0431",
+    "Product": "4 Inches 24DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹334",
+    "Disc %": "75%",
+    "Rate": "₹83.60"
+  },
+  {
+    "#": "182",
+    "SKU": "CK-0432",
+    "Product": "4 Inches 32DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹444",
+    "Disc %": "75%",
+    "Rate": "₹111.10"
+  },
+  {
+    "#": "183",
+    "SKU": "CK-0433",
+    "Product": "4 Inches 50DLX",
+    "Brand": "Nature",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹704",
+    "Disc %": "75%",
+    "Rate": "₹176.00"
+  },
+  {
+    "#": "184",
+    "SKU": "CK-0472",
+    "Product": "56-SPL-GNT",
+    "Brand": "Ayyan",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹418",
+    "Disc %": "75%",
+    "Rate": "₹104.50"
+  },
+  {
+    "#": "185",
+    "SKU": "CK-0505",
+    "Product": "Chorsa-28",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹57",
+    "Disc %": "75%",
+    "Rate": "₹14.30"
+  },
+  {
+    "#": "186",
+    "SKU": "CK-0447",
+    "Product": "Five-T String Full Wala",
+    "Brand": "Rajeesh",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹6600",
+    "Disc %": "75%",
+    "Rate": "₹1650.00"
+  },
+  {
+    "#": "187",
+    "SKU": "CK-0454",
+    "Product": "Five-T-G-Vadakampatti Wala",
+    "Brand": "Vadakampatti",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹7260",
+    "Disc %": "75%",
+    "Rate": "₹1815.00"
+  },
+  {
+    "#": "188",
+    "SKU": "CK-0500",
+    "Product": "Five-T-Short Wala",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹2376",
+    "Disc %": "75%",
+    "Rate": "₹594.00"
+  },
+  {
+    "#": "189",
+    "SKU": "CK-0503",
+    "Product": "Giant-28",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹66",
+    "Disc %": "75%",
+    "Rate": "₹16.50"
+  },
+  {
+    "#": "190",
+    "SKU": "CK-0504",
+    "Product": "Giant-56",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹132",
+    "Disc %": "75%",
+    "Rate": "₹33.00"
+  },
+  {
+    "#": "191",
+    "SKU": "CK-0445",
+    "Product": "One-T String Full Wala",
+    "Brand": "Rajeesh",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "192",
+    "SKU": "CK-0452",
+    "Product": "One-T-G-Vadakampatti Wala",
+    "Brand": "Vadakampatti",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "193",
+    "SKU": "CK-0498",
+    "Product": "One-T-Short Wala",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹594",
+    "Disc %": "75%",
+    "Rate": "₹148.50"
+  },
+  {
+    "#": "194",
+    "SKU": "CK-0455",
+    "Product": "Ten-T-G-Vadakampatti Wala",
+    "Brand": "Vadakampatti",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹14520",
+    "Disc %": "75%",
+    "Rate": "₹3630.00"
+  },
+  {
+    "#": "195",
+    "SKU": "CK-0446",
+    "Product": "Two-T String Full Wala",
+    "Brand": "Rajeesh",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹2640",
+    "Disc %": "75%",
+    "Rate": "₹660.00"
+  },
+  {
+    "#": "196",
+    "SKU": "CK-0453",
+    "Product": "Two-T-G-Vadakampatti Wala",
+    "Brand": "Vadakampatti",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹2904",
+    "Disc %": "75%",
+    "Rate": "₹726.00"
+  },
+  {
+    "#": "197",
+    "SKU": "CK-0499",
+    "Product": "Two-T-Short Wala",
+    "Brand": "Crackerskart",
+    "Category": "Continuous Joint Crackers",
+    "MRP": "₹1188",
+    "Disc %": "75%",
+    "Rate": "₹297.00"
+  },
+  {
+    "#": "198",
+    "SKU": "CK-0034",
+    "Product": "Colour Rain",
+    "Brand": "Krishna",
+    "Category": "Flower Pots",
+    "MRP": "₹2002",
+    "Disc %": "75%",
+    "Rate": "₹500.50"
+  },
+  {
+    "#": "199",
+    "SKU": "CK-0147",
+    "Product": "Flower Pot Asoka",
+    "Brand": "Asok",
+    "Category": "Flower Pots",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "200",
+    "SKU": "CK-0385",
+    "Product": "Flower Pot Asoka",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹374",
+    "Disc %": "75%",
+    "Rate": "₹93.50"
+  },
+  {
+    "#": "201",
+    "SKU": "CK-0383",
+    "Product": "Flower Pot Big",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹264",
+    "Disc %": "75%",
+    "Rate": "₹66.00"
+  },
+  {
+    "#": "202",
+    "SKU": "CK-0148",
+    "Product": "Flower Pot Colourkoti",
+    "Brand": "Asok",
+    "Category": "Flower Pots",
+    "MRP": "₹1430",
+    "Disc %": "75%",
+    "Rate": "₹357.50"
+  },
+  {
+    "#": "203",
+    "SKU": "CK-0386",
+    "Product": "Flower Pot Colourkoti",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹726",
+    "Disc %": "75%",
+    "Rate": "₹181.50"
+  },
+  {
+    "#": "204",
+    "SKU": "CK-0149",
+    "Product": "Flower Pot Colourkoti Deluxe",
+    "Brand": "Asok",
+    "Category": "Flower Pots",
+    "MRP": "₹2090",
+    "Disc %": "75%",
+    "Rate": "₹522.50"
+  },
+  {
+    "#": "205",
+    "SKU": "CK-0387",
+    "Product": "Flower Pot Deluxe (5PCS)",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "206",
+    "SKU": "CK-0382",
+    "Product": "Flower Pot Small",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹198",
+    "Disc %": "75%",
+    "Rate": "₹49.50"
+  },
+  {
+    "#": "207",
+    "SKU": "CK-0146",
+    "Product": "Flower Pot Special",
+    "Brand": "Asok",
+    "Category": "Flower Pots",
+    "MRP": "₹638",
+    "Disc %": "75%",
+    "Rate": "₹159.50"
+  },
+  {
+    "#": "208",
+    "SKU": "CK-0384",
+    "Product": "Flower Pot Special",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "209",
+    "SKU": "CK-0388",
+    "Product": "Flower Pot Super Deluxe (2PCS)",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹286",
+    "Disc %": "75%",
+    "Rate": "₹71.50"
+  },
+  {
+    "#": "210",
+    "SKU": "CK-0234",
+    "Product": "Flower Series (5 in 1)",
+    "Brand": "Ravindra",
+    "Category": "Flower Pots",
+    "MRP": "₹1012",
+    "Disc %": "75%",
+    "Rate": "₹253.00"
+  },
+  {
+    "#": "211",
+    "SKU": "CK-0402",
+    "Product": "Ganga Jamuna",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "212",
+    "SKU": "CK-0046",
+    "Product": "Laila Majunu",
+    "Brand": "Krishna",
+    "Category": "Flower Pots",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "213",
+    "SKU": "CK-0033",
+    "Product": "Mega Colour Changing",
+    "Brand": "Krishna",
+    "Category": "Flower Pots",
+    "MRP": "₹3300",
+    "Disc %": "75%",
+    "Rate": "₹825.00"
+  },
+  {
+    "#": "214",
+    "SKU": "CK-0391",
+    "Product": "Mega Colourkoti Deluxe",
+    "Brand": "Showmya Narayana",
+    "Category": "Flower Pots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "215",
+    "SKU": "CK-0032",
+    "Product": "Mega Tricolour",
+    "Brand": "Krishna",
+    "Category": "Flower Pots",
+    "MRP": "₹2640",
+    "Disc %": "75%",
+    "Rate": "₹660.00"
+  },
+  {
+    "#": "216",
+    "SKU": "CK-0264",
+    "Product": "Multicolour Giant (10PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Flower Pots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "217",
+    "SKU": "CK-0262",
+    "Product": "Multicolour Giant (5PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Flower Pots",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "218",
+    "SKU": "CK-0263",
+    "Product": "Multicolour Giant Deluxe (5PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Flower Pots",
+    "MRP": "₹1100",
+    "Disc %": "75%",
+    "Rate": "₹275.00"
+  },
+  {
+    "#": "219",
+    "SKU": "CK-0299",
+    "Product": "Rainbow Flower Pot-2PCS",
+    "Brand": "Sri Vijai",
+    "Category": "Flower Pots",
+    "MRP": "₹330",
+    "Disc %": "75%",
+    "Rate": "₹82.50"
+  },
+  {
+    "#": "231",
+    "SKU": "CK-0526",
+    "Product": "4 * 4 Wheel",
+    "Brand": "Crackerskart",
+    "Category": "Ground Chakkar",
+    "MRP": "₹616",
+    "Disc %": "75%",
+    "Rate": "₹154.00"
+  },
+  {
+    "#": "232",
+    "SKU": "CK-0518",
+    "Product": "Baambaram (10PCS)",
+    "Brand": "Iniya",
+    "Category": "Ground Chakkar",
+    "MRP": "₹462",
+    "Disc %": "75%",
+    "Rate": "₹115.50"
+  },
+  {
+    "#": "233",
+    "SKU": "CK-0517",
+    "Product": "Baambaram (5PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Ground Chakkar",
+    "MRP": "₹264",
+    "Disc %": "75%",
+    "Rate": "₹66.00"
+  },
+  {
+    "#": "234",
+    "SKU": "CK-0516",
+    "Product": "Butterfly",
+    "Brand": "Crackerskart",
+    "Category": "Ground Chakkar",
+    "MRP": "₹264",
+    "Disc %": "75%",
+    "Rate": "₹66.00"
+  },
+  {
+    "#": "235",
+    "SKU": "CK-0468",
+    "Product": "Cock Tail Spinner (10PCS)",
+    "Brand": "Ayyan",
+    "Category": "Ground Chakkar",
+    "MRP": "₹286",
+    "Disc %": "75%",
+    "Rate": "₹71.50"
+  },
+  {
+    "#": "236",
+    "SKU": "CK-0531",
+    "Product": "Fortune Chakker",
+    "Brand": "Crackerskart",
+    "Category": "Ground Chakkar",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "237",
+    "SKU": "CK-0506",
+    "Product": "G.C.Big (25PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Ground Chakkar",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "238",
+    "SKU": "CK-0508",
+    "Product": "G.C.Deluxe Cheetha -Green&Red Colour",
+    "Brand": "Thangaprakash",
+    "Category": "Ground Chakkar",
+    "MRP": "₹748",
+    "Disc %": "75%",
+    "Rate": "₹187.00"
+  },
+  {
+    "#": "239",
+    "SKU": "CK-0507",
+    "Product": "G.C.SPL Cheetha -Green&Red Colour",
+    "Brand": "Thangaprakash",
+    "Category": "Ground Chakkar",
+    "MRP": "₹572",
+    "Disc %": "75%",
+    "Rate": "₹143.00"
+  },
+  {
+    "#": "240",
+    "SKU": "CK-0151",
+    "Product": "Ground Chakker Asoka",
+    "Brand": "Asok",
+    "Category": "Ground Chakkar",
+    "MRP": "₹550",
+    "Disc %": "75%",
+    "Rate": "₹137.50"
+  },
+  {
+    "#": "241",
+    "SKU": "CK-0418",
+    "Product": "Ground Chakker Asoka (10PCS)",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹242",
+    "Disc %": "75%",
+    "Rate": "₹60.50"
+  },
+  {
+    "#": "242",
+    "SKU": "CK-0417",
+    "Product": "Ground Chakker Big (10PCS)",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹132",
+    "Disc %": "75%",
+    "Rate": "₹33.00"
+  },
+  {
+    "#": "243",
+    "SKU": "CK-0150",
+    "Product": "Ground Chakker Big (25PCS)",
+    "Brand": "Asok",
+    "Category": "Ground Chakkar",
+    "MRP": "₹814",
+    "Disc %": "75%",
+    "Rate": "₹203.50"
+  },
+  {
+    "#": "244",
+    "SKU": "CK-0152",
+    "Product": "Ground Chakker Deluxe",
+    "Brand": "Asok",
+    "Category": "Ground Chakkar",
+    "MRP": "₹858",
+    "Disc %": "75%",
+    "Rate": "₹214.50"
+  },
+  {
+    "#": "245",
+    "SKU": "CK-0420",
+    "Product": "Ground Chakker Deluxe (10PCS)",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹449",
+    "Disc %": "75%",
+    "Rate": "₹112.20"
+  },
+  {
+    "#": "246",
+    "SKU": "CK-0422",
+    "Product": "Ground Chakker Deluxe (Plastic)Sonics",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹594",
+    "Disc %": "75%",
+    "Rate": "₹148.50"
+  },
+  {
+    "#": "247",
+    "SKU": "CK-0419",
+    "Product": "Ground Chakker Special (10PCS)",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹268",
+    "Disc %": "75%",
+    "Rate": "₹67.10"
+  },
+  {
+    "#": "248",
+    "SKU": "CK-0421",
+    "Product": "Ground Chakker Special (Plastic)Minions",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "249",
+    "SKU": "CK-0509",
+    "Product": "Honey Bee (3 Varieties Spinner)",
+    "Brand": "Ganavel",
+    "Category": "Ground Chakkar",
+    "MRP": "₹550",
+    "Disc %": "75%",
+    "Rate": "₹137.50"
+  },
+  {
+    "#": "250",
+    "SKU": "CK-0029",
+    "Product": "Jil Jil Fancy Wheel",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "251",
+    "SKU": "CK-0028",
+    "Product": "Jolly Wheel",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹418",
+    "Disc %": "75%",
+    "Rate": "₹104.50"
+  },
+  {
+    "#": "252",
+    "SKU": "CK-0030",
+    "Product": "Lotus Wheel",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "253",
+    "SKU": "CK-0465",
+    "Product": "Lotus Wheel",
+    "Brand": "Ayyan",
+    "Category": "Ground Chakkar",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "254",
+    "SKU": "CK-0027",
+    "Product": "Mega Spinner Deluxe (Plastic)",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹858",
+    "Disc %": "75%",
+    "Rate": "₹214.50"
+  },
+  {
+    "#": "255",
+    "SKU": "CK-0025",
+    "Product": "Peppy Spin",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹198",
+    "Disc %": "75%",
+    "Rate": "₹49.50"
+  },
+  {
+    "#": "256",
+    "SKU": "CK-0026",
+    "Product": "Smiley Spinner Asoka (Plastic)",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹374",
+    "Disc %": "75%",
+    "Rate": "₹93.50"
+  },
+  {
+    "#": "257",
+    "SKU": "CK-0464",
+    "Product": "Tinto Wheel or Rio Wheel",
+    "Brand": "Ayyan",
+    "Category": "Ground Chakkar",
+    "MRP": "₹924",
+    "Disc %": "75%",
+    "Rate": "₹231.00"
+  },
+  {
+    "#": "258",
+    "SKU": "CK-0474",
+    "Product": "Top Tucker",
+    "Brand": "Ayyan",
+    "Category": "Ground Chakkar",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "259",
+    "SKU": "CK-0045",
+    "Product": "Tug of War",
+    "Brand": "Krishna",
+    "Category": "Ground Chakkar",
+    "MRP": "₹436",
+    "Disc %": "75%",
+    "Rate": "₹108.90"
+  },
+  {
+    "#": "260",
+    "SKU": "CK-0200",
+    "Product": "Whizz Wheel",
+    "Brand": "Ravindra",
+    "Category": "Ground Chakkar",
+    "MRP": "₹594",
+    "Disc %": "75%",
+    "Rate": "₹148.50"
+  },
+  {
+    "#": "261",
+    "SKU": "CK-0153",
+    "Product": "Wire Chakker",
+    "Brand": "Asok",
+    "Category": "Ground Chakkar",
+    "MRP": "₹814",
+    "Disc %": "75%",
+    "Rate": "₹203.50"
+  },
+  {
+    "#": "262",
+    "SKU": "CK-0423",
+    "Product": "Wire Chakker",
+    "Brand": "Ravi",
+    "Category": "Ground Chakkar",
+    "MRP": "₹594",
+    "Disc %": "75%",
+    "Rate": "₹148.50"
+  },
+  {
+    "#": "263",
+    "SKU": "CK-0038",
+    "Product": "100 Second (Red Flare)",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹845",
+    "Disc %": "75%",
+    "Rate": "₹211.20"
+  },
+  {
+    "#": "266",
+    "SKU": "CK-0397",
+    "Product": "15 Inches Pencil",
+    "Brand": "Showmya Narayana",
+    "Category": "Pencils",
+    "MRP": "₹202",
+    "Disc %": "75%",
+    "Rate": "₹50.60"
+  },
+  {
+    "#": "267",
+    "SKU": "CK-0398",
+    "Product": "18 Inches Pencil",
+    "Brand": "Showmya Narayana",
+    "Category": "Pencils",
+    "MRP": "₹242",
+    "Disc %": "75%",
+    "Rate": "₹60.50"
+  },
+  {
+    "#": "270",
+    "SKU": "CK-0377",
+    "Product": "Bat",
+    "Brand": "Amarnath",
+    "Category": "Pencils",
+    "MRP": "₹748",
+    "Disc %": "75%",
+    "Rate": "₹187.00"
+  },
+  {
+    "#": "271",
+    "SKU": "CK-0339",
+    "Product": "Colour Pencil",
+    "Brand": "Karpagaraja",
+    "Category": "Pencils",
+    "MRP": "₹242",
+    "Disc %": "75%",
+    "Rate": "₹60.50"
+  },
+  {
+    "#": "272",
+    "SKU": "CK-0533",
+    "Product": "Colour Smoke",
+    "Brand": "Crackerskart",
+    "Category": "Pencils",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "273",
+    "SKU": "CK-0063",
+    "Product": "Colour Smoke Green",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "274",
+    "SKU": "CK-0065",
+    "Product": "Colour Smoke Orange",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "275",
+    "SKU": "CK-0064",
+    "Product": "Colour Smoke Yellow",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "276",
+    "SKU": "CK-0036",
+    "Product": "Emerald Torch",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹506",
+    "Disc %": "75%",
+    "Rate": "₹126.50"
+  },
+  {
+    "#": "277",
+    "SKU": "CK-0062",
+    "Product": "Fun Gun Green",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹594",
+    "Disc %": "75%",
+    "Rate": "₹148.50"
+  },
+  {
+    "#": "278",
+    "SKU": "CK-0337",
+    "Product": "Jasik Colour Boom (2PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Pencils",
+    "MRP": "₹616",
+    "Disc %": "75%",
+    "Rate": "₹154.00"
+  },
+  {
+    "#": "279",
+    "SKU": "CK-0260",
+    "Product": "Jog Falls",
+    "Brand": "Ravindra",
+    "Category": "Pencils",
+    "MRP": "₹528",
+    "Disc %": "75%",
+    "Rate": "₹132.00"
+  },
+  {
+    "#": "280",
+    "SKU": "CK-0357",
+    "Product": "Lollipop Stick (5PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Pencils",
+    "MRP": "₹704",
+    "Disc %": "75%",
+    "Rate": "₹176.00"
+  },
+  {
+    "#": "282",
+    "SKU": "CK-0039",
+    "Product": "Max 100",
+    "Brand": "Krishna",
+    "Category": "Pencils",
+    "MRP": "₹1166",
+    "Disc %": "75%",
+    "Rate": "₹291.50"
+  },
+  {
+    "#": "287",
+    "SKU": "CK-0338",
+    "Product": "Sharp Shooter (Gun 2PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Pencils",
+    "MRP": "₹682",
+    "Disc %": "75%",
+    "Rate": "₹170.50"
+  },
+  {
+    "#": "288",
+    "SKU": "CK-0154",
+    "Product": "Silver Rain Torch",
+    "Brand": "Asok",
+    "Category": "Pencils",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "289",
+    "SKU": "CK-0515",
+    "Product": "Sivakasi Pencil (2PCS)",
+    "Brand": "Power King",
+    "Category": "Pencils",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "294",
+    "SKU": "CK-0106",
+    "Product": "10 Shot Lamba",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹836",
+    "Disc %": "75%",
+    "Rate": "₹209.00"
+  },
+  {
+    "#": "295",
+    "SKU": "CK-0538",
+    "Product": "10 Shot Win",
+    "Brand": "Crackerskart",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "297",
+    "SKU": "CK-0266",
+    "Product": "105 Colour Balls",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2640",
+    "Disc %": "75%",
+    "Rate": "₹660.00"
+  },
+  {
+    "#": "298",
+    "SKU": "CK-0349",
+    "Product": "12 Shot Colour&Tail",
+    "Brand": "Karpagaraja",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹770",
+    "Disc %": "75%",
+    "Rate": "₹192.50"
+  },
+  {
+    "#": "299",
+    "SKU": "CK-0310",
+    "Product": "12 Shot Peacock Dance (Minies Effect)",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "300",
+    "SKU": "CK-0535",
+    "Product": "12 Shot Rider",
+    "Brand": "MKR",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "301",
+    "SKU": "CK-0244",
+    "Product": "12 Shot Sundae Magic",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1892",
+    "Disc %": "75%",
+    "Rate": "₹473.00"
+  },
+  {
+    "#": "302",
+    "SKU": "CK-0166",
+    "Product": "12 Star",
+    "Brand": "Asok",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹814",
+    "Disc %": "75%",
+    "Rate": "₹203.50"
+  },
+  {
+    "#": "306",
+    "SKU": "CK-0537",
+    "Product": "15 Shot Colour Smoke",
+    "Brand": "Crackerskart",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1980",
+    "Disc %": "75%",
+    "Rate": "₹495.00"
+  },
+  {
+    "#": "307",
+    "SKU": "CK-0351",
+    "Product": "15 Shot Colour&Crackling",
+    "Brand": "Karpagaraja",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1232",
+    "Disc %": "75%",
+    "Rate": "₹308.00"
+  },
+  {
+    "#": "308",
+    "SKU": "CK-0539",
+    "Product": "15 Shot Multicolour",
+    "Brand": "Crackerskart",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1056",
+    "Disc %": "75%",
+    "Rate": "₹264.00"
+  },
+  {
+    "#": "309",
+    "SKU": "CK-0284",
+    "Product": "15 Shot Multicolour-Carnival",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "311",
+    "SKU": "CK-0359",
+    "Product": "20-20 Crackling Mines",
+    "Brand": "Karpagaraja",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1716",
+    "Disc %": "75%",
+    "Rate": "₹429.00"
+  },
+  {
+    "#": "312",
+    "SKU": "CK-0311",
+    "Product": "24 Shot Peacock Dance (24 Shot Minies Effect)",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2640",
+    "Disc %": "75%",
+    "Rate": "₹660.00"
+  },
+  {
+    "#": "316",
+    "SKU": "CK-0295",
+    "Product": "25 Shot Byte",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2046",
+    "Disc %": "75%",
+    "Rate": "₹511.50"
+  },
+  {
+    "#": "317",
+    "SKU": "CK-0540",
+    "Product": "25 Shot Multicolour",
+    "Brand": "Crackerskart",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1584",
+    "Disc %": "75%",
+    "Rate": "₹396.00"
+  },
+  {
+    "#": "318",
+    "SKU": "CK-0536",
+    "Product": "25 Shot Rider",
+    "Brand": "MKR",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "319",
+    "SKU": "CK-0350",
+    "Product": "25 Shot Tails",
+    "Brand": "Karpagaraja",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1100",
+    "Disc %": "75%",
+    "Rate": "₹275.00"
+  },
+  {
+    "#": "326",
+    "SKU": "CK-0162",
+    "Product": "30 Shot",
+    "Brand": "Asok",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2860",
+    "Disc %": "75%",
+    "Rate": "₹715.00"
+  },
+  {
+    "#": "327",
+    "SKU": "CK-0352",
+    "Product": "30 Shot Colour&Crackling",
+    "Brand": "Karpagaraja",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2266",
+    "Disc %": "75%",
+    "Rate": "₹566.50"
+  },
+  {
+    "#": "328",
+    "SKU": "CK-0288",
+    "Product": "30 Shot Crackling",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2750",
+    "Disc %": "75%",
+    "Rate": "₹687.50"
+  },
+  {
+    "#": "329",
+    "SKU": "CK-0541",
+    "Product": "30 Shot Multicolour",
+    "Brand": "Crackerskart",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1672",
+    "Disc %": "75%",
+    "Rate": "₹418.00"
+  },
+  {
+    "#": "330",
+    "SKU": "CK-0325",
+    "Product": "30 Shot Whistling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹4180",
+    "Disc %": "75%",
+    "Rate": "₹1045.00"
+  },
+  {
+    "#": "332",
+    "SKU": "CK-0163",
+    "Product": "60 Shot",
+    "Brand": "Asok",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹5720",
+    "Disc %": "75%",
+    "Rate": "₹1430.00"
+  },
+  {
+    "#": "333",
+    "SKU": "CK-0353",
+    "Product": "60 Shot Colour&Crackling",
+    "Brand": "Karpagaraja",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹4532",
+    "Disc %": "75%",
+    "Rate": "₹1133.00"
+  },
+  {
+    "#": "334",
+    "SKU": "CK-0542",
+    "Product": "60 Shot Multicolour",
+    "Brand": "Crackerskart",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹3344",
+    "Disc %": "75%",
+    "Rate": "₹836.00"
+  },
+  {
+    "#": "335",
+    "SKU": "CK-0096",
+    "Product": "A.K. 47",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹4752",
+    "Disc %": "75%",
+    "Rate": "₹1188.00"
+  },
+  {
+    "#": "336",
+    "SKU": "CK-0230",
+    "Product": "Agni Missiles 25 Shot Whizling",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹3520",
+    "Disc %": "75%",
+    "Rate": "₹880.00"
+  },
+  {
+    "#": "337",
+    "SKU": "CK-0245",
+    "Product": "Akkash Chakkar",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1892",
+    "Disc %": "75%",
+    "Rate": "₹473.00"
+  },
+  {
+    "#": "338",
+    "SKU": "CK-0229",
+    "Product": "Arabian Night 12 Shot Whizling",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1826",
+    "Disc %": "75%",
+    "Rate": "₹456.50"
+  },
+  {
+    "#": "339",
+    "SKU": "CK-0246",
+    "Product": "Bar Baro",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2992",
+    "Disc %": "75%",
+    "Rate": "₹748.00"
+  },
+  {
+    "#": "340",
+    "SKU": "CK-0094",
+    "Product": "Big City (89 Shot)",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹8272",
+    "Disc %": "75%",
+    "Rate": "₹2068.00"
+  },
+  {
+    "#": "341",
+    "SKU": "CK-0303",
+    "Product": "Blast 30 Shot with Crackling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2134",
+    "Disc %": "75%",
+    "Rate": "₹533.50"
+  },
+  {
+    "#": "342",
+    "SKU": "CK-0305",
+    "Product": "Bomb Blast 60 Shot Multicolour with Crackling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹4268",
+    "Disc %": "75%",
+    "Rate": "₹1067.00"
+  },
+  {
+    "#": "343",
+    "SKU": "CK-0493",
+    "Product": "Carnival (Ribbon Sky Shot 12)",
+    "Brand": "Ganavel",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2860",
+    "Disc %": "75%",
+    "Rate": "₹715.00"
+  },
+  {
+    "#": "344",
+    "SKU": "CK-0249",
+    "Product": "Chaska Maska-100 Shot Whizzling+Colour",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹11440",
+    "Disc %": "75%",
+    "Rate": "₹2860.00"
+  },
+  {
+    "#": "345",
+    "SKU": "CK-0586",
+    "Product": "Cockatoo 25 Shot",
+    "Brand": "Sonny",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1210",
+    "Disc %": "75%",
+    "Rate": "₹302.50"
+  },
+  {
+    "#": "346",
+    "SKU": "CK-0099",
+    "Product": "Crackling Cascade",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹7040",
+    "Disc %": "75%",
+    "Rate": "₹1760.00"
+  },
+  {
+    "#": "347",
+    "SKU": "CK-0247",
+    "Product": "Desert Orchid",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2992",
+    "Disc %": "75%",
+    "Rate": "₹748.00"
+  },
+  {
+    "#": "348",
+    "SKU": "CK-0300",
+    "Product": "Dragon Blast 12 Shot Multicolour with Crackling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1100",
+    "Disc %": "75%",
+    "Rate": "₹275.00"
+  },
+  {
+    "#": "353",
+    "SKU": "CK-0289",
+    "Product": "Fusion-12 Shot Whizling",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1364",
+    "Disc %": "75%",
+    "Rate": "₹341.00"
+  },
+  {
+    "#": "372",
+    "SKU": "CK-0587",
+    "Product": "Rang Chakker",
+    "Brand": "Sonny",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1364",
+    "Disc %": "75%",
+    "Rate": "₹341.00"
+  },
+  {
+    "#": "373",
+    "SKU": "CK-0095",
+    "Product": "Rang Dharbar",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1760",
+    "Disc %": "75%",
+    "Rate": "₹440.00"
+  },
+  {
+    "#": "374",
+    "SKU": "CK-0098",
+    "Product": "Rangooli (15 Shots)",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹2926",
+    "Disc %": "75%",
+    "Rate": "₹731.50"
+  },
+  {
+    "#": "375",
+    "SKU": "CK-0286",
+    "Product": "RX-100 100 Shot",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹8580",
+    "Disc %": "75%",
+    "Rate": "₹2145.00"
+  },
+  {
+    "#": "378",
+    "SKU": "CK-0225",
+    "Product": "Sky Wheel (25 Chakkars)",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹3630",
+    "Disc %": "75%",
+    "Rate": "₹907.50"
+  },
+  {
+    "#": "380",
+    "SKU": "CK-0306",
+    "Product": "Star War 100 Shot Multicolour with Crackling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹7920",
+    "Disc %": "75%",
+    "Rate": "₹1980.00"
+  },
+  {
+    "#": "381",
+    "SKU": "CK-0251",
+    "Product": "Steel Breaker 6 Shot Crackling",
+    "Brand": "Ravindra",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1760",
+    "Disc %": "75%",
+    "Rate": "₹440.00"
+  },
+  {
+    "#": "382",
+    "SKU": "CK-0309",
+    "Product": "Storm 12 Shot Full Display Crackling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1562",
+    "Disc %": "75%",
+    "Rate": "₹390.50"
+  },
+  {
+    "#": "383",
+    "SKU": "CK-0290",
+    "Product": "Super Sonic-25 Shot Whizling",
+    "Brand": "Sri Vijai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹3410",
+    "Disc %": "75%",
+    "Rate": "₹852.50"
+  },
+  {
+    "#": "384",
+    "SKU": "CK-0123",
+    "Product": "Tang Dynasty (20 Shot)",
+    "Brand": "Krishna",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1672",
+    "Disc %": "75%",
+    "Rate": "₹418.00"
+  },
+  {
+    "#": "385",
+    "SKU": "CK-0301",
+    "Product": "Thunder 15 Shot Multicolour with Crackling",
+    "Brand": "Sri Kaalai",
+    "Category": "Repeated Multicolour Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "391",
+    "SKU": "CK-0040",
+    "Product": "10 Colour Rocket",
+    "Brand": "Krishna",
+    "Category": "Rockets",
+    "MRP": "₹1760",
+    "Disc %": "75%",
+    "Rate": "₹440.00"
+  },
+  {
+    "#": "393",
+    "SKU": "CK-0261",
+    "Product": "Colour Rocket",
+    "Brand": "Sri Vijai",
+    "Category": "Rockets",
+    "MRP": "₹286",
+    "Disc %": "75%",
+    "Rate": "₹71.50"
+  },
+  {
+    "#": "396",
+    "SKU": "CK-0198",
+    "Product": "Musical Rocket",
+    "Brand": "Ravindra",
+    "Category": "Rockets",
+    "MRP": "₹651",
+    "Disc %": "75%",
+    "Rate": "₹162.80"
+  },
+  {
+    "#": "397",
+    "SKU": "CK-0467",
+    "Product": "Parachute Rocket",
+    "Brand": "Ayyan",
+    "Category": "Rockets",
+    "MRP": "₹2024",
+    "Disc %": "75%",
+    "Rate": "₹506.00"
+  },
+  {
+    "#": "399",
+    "SKU": "CK-0438",
+    "Product": "Rocket Bomb",
+    "Brand": "Rajeesh",
+    "Category": "Rockets",
+    "MRP": "₹229",
+    "Disc %": "75%",
+    "Rate": "₹57.20"
+  },
+  {
+    "#": "403",
+    "SKU": "CK-0573",
+    "Product": "Men in Black Gun",
+    "Brand": "Sonny",
+    "Category": "Rollcaps & Ringcaps with Gun",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "404",
+    "SKU": "CK-0574",
+    "Product": "Pirates Gun",
+    "Brand": "Sonny",
+    "Category": "Rollcaps & Ringcaps with Gun",
+    "MRP": "₹550",
+    "Disc %": "75%",
+    "Rate": "₹137.50"
+  },
+  {
+    "#": "406",
+    "SKU": "CK-0564",
+    "Product": "Rollcaps",
+    "Brand": "Rajan",
+    "Category": "Rollcaps & Ringcaps with Gun",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "407",
+    "SKU": "CK-0575",
+    "Product": "Terminator Gun",
+    "Brand": "Sonny",
+    "Category": "Rollcaps & Ringcaps with Gun",
+    "MRP": "₹1210",
+    "Disc %": "75%",
+    "Rate": "₹302.50"
+  },
+  {
+    "#": "408",
+    "SKU": "CK-0547",
+    "Product": "0.5 Inch Pipe (5PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹242",
+    "Disc %": "75%",
+    "Rate": "₹60.50"
+  },
+  {
+    "#": "409",
+    "SKU": "CK-0203",
+    "Product": "1.25 Inches Lovely Pop",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹532",
+    "Disc %": "75%",
+    "Rate": "₹133.10"
+  },
+  {
+    "#": "410",
+    "SKU": "CK-0205",
+    "Product": "1.25 Inches Lovely Triple",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "411",
+    "SKU": "CK-0071",
+    "Product": "1.5 Inches Flower Series",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "412",
+    "SKU": "CK-0546",
+    "Product": "1 Inch Pipe",
+    "Brand": "Crackerskart",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹70",
+    "Disc %": "75%",
+    "Rate": "₹17.60"
+  },
+  {
+    "#": "413",
+    "SKU": "CK-0204",
+    "Product": "1 Inch Fly Wheel",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹691",
+    "Disc %": "75%",
+    "Rate": "₹172.70"
+  },
+  {
+    "#": "414",
+    "SKU": "CK-0347",
+    "Product": "2.5 Inches Pipe (1PCE)",
+    "Brand": "Karpagaraja",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹528",
+    "Disc %": "75%",
+    "Rate": "₹132.00"
+  },
+  {
+    "#": "415",
+    "SKU": "CK-0312",
+    "Product": "2.5 Inches Pipe (1PCE)4 Varieties",
+    "Brand": "Sri Kaalai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹770",
+    "Disc %": "75%",
+    "Rate": "₹192.50"
+  },
+  {
+    "#": "416",
+    "SKU": "CK-0313",
+    "Product": "2.5 Inches Pipe (3PCS)",
+    "Brand": "Sri Kaalai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1188",
+    "Disc %": "75%",
+    "Rate": "₹297.00"
+  },
+  {
+    "#": "417",
+    "SKU": "CK-0551",
+    "Product": "2.5 Inches Pipe (3PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1210",
+    "Disc %": "75%",
+    "Rate": "₹302.50"
+  },
+  {
+    "#": "418",
+    "SKU": "CK-0110",
+    "Product": "2 Inch Comets Aladdin",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "419",
+    "SKU": "CK-0111",
+    "Product": "2 Inch Comets Cinderella",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "420",
+    "SKU": "CK-0113",
+    "Product": "2 Inch Comets Hercules",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "421",
+    "SKU": "CK-0112",
+    "Product": "2 Inch Comets Mickey Mouse",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "422",
+    "SKU": "CK-0208",
+    "Product": "2 Inches Blue Lagoon (2PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1540",
+    "Disc %": "75%",
+    "Rate": "₹385.00"
+  },
+  {
+    "#": "423",
+    "SKU": "CK-0213",
+    "Product": "2 Inches Choco Dhamaka (3PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2354",
+    "Disc %": "75%",
+    "Rate": "₹588.50"
+  },
+  {
+    "#": "424",
+    "SKU": "CK-0075",
+    "Product": "2 Inches Crackling Comets 3PCS (Mix)",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2244",
+    "Disc %": "75%",
+    "Rate": "₹561.00"
+  },
+  {
+    "#": "425",
+    "SKU": "CK-0211",
+    "Product": "2 Inches Dil Chandhini (3PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2354",
+    "Disc %": "75%",
+    "Rate": "₹588.50"
+  },
+  {
+    "#": "426",
+    "SKU": "CK-0210",
+    "Product": "2 Inches Dil Dil (3PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2354",
+    "Disc %": "75%",
+    "Rate": "₹588.50"
+  },
+  {
+    "#": "427",
+    "SKU": "CK-0074",
+    "Product": "2 Inches E-Bay Series (Mix)",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1716",
+    "Disc %": "75%",
+    "Rate": "₹429.00"
+  },
+  {
+    "#": "428",
+    "SKU": "CK-0073",
+    "Product": "2 Inches Economics Series (Mix)",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1452",
+    "Disc %": "75%",
+    "Rate": "₹363.00"
+  },
+  {
+    "#": "429",
+    "SKU": "CK-0209",
+    "Product": "2 Inches Flash Flares (2PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1540",
+    "Disc %": "75%",
+    "Rate": "₹385.00"
+  },
+  {
+    "#": "430",
+    "SKU": "CK-0206",
+    "Product": "2 Inches Hoodi Baba (2PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1540",
+    "Disc %": "75%",
+    "Rate": "₹385.00"
+  },
+  {
+    "#": "431",
+    "SKU": "CK-0212",
+    "Product": "2 Inches Mirchi Dhamaka (3PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2354",
+    "Disc %": "75%",
+    "Rate": "₹588.50"
+  },
+  {
+    "#": "432",
+    "SKU": "CK-0214",
+    "Product": "2 Inches Nila Dhamaka (3PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2354",
+    "Disc %": "75%",
+    "Rate": "₹588.50"
+  },
+  {
+    "#": "433",
+    "SKU": "CK-0578",
+    "Product": "2 Inches Ocean Series (3PCS)",
+    "Brand": "Sonny",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2420",
+    "Disc %": "75%",
+    "Rate": "₹605.00"
+  },
+  {
+    "#": "434",
+    "SKU": "CK-0548",
+    "Product": "2 Inches Pipe (1PCE)",
+    "Brand": "Crackerskart",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹308",
+    "Disc %": "75%",
+    "Rate": "₹77.00"
+  },
+  {
+    "#": "435",
+    "SKU": "CK-0275",
+    "Product": "2 Inches Pipe (3PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1672",
+    "Disc %": "75%",
+    "Rate": "₹418.00"
+  },
+  {
+    "#": "436",
+    "SKU": "CK-0346",
+    "Product": "2 Inches Pipe (3PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1100",
+    "Disc %": "75%",
+    "Rate": "₹275.00"
+  },
+  {
+    "#": "437",
+    "SKU": "CK-0549",
+    "Product": "2 Inches Pipe (3PCS)",
+    "Brand": "Crackerskart",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "438",
+    "SKU": "CK-0356",
+    "Product": "2 Inches Pipe (3PCS) 3Steps",
+    "Brand": "Karpagaraja",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1254",
+    "Disc %": "75%",
+    "Rate": "₹313.50"
+  },
+  {
+    "#": "439",
+    "SKU": "CK-0072",
+    "Product": "2 Inches Pipe (Mix)",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹594",
+    "Disc %": "75%",
+    "Rate": "₹148.50"
+  },
+  {
+    "#": "440",
+    "SKU": "CK-0207",
+    "Product": "2 Inches Rim Jim (2PCS)",
+    "Brand": "Ravindra",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1540",
+    "Disc %": "75%",
+    "Rate": "₹385.00"
+  },
+  {
+    "#": "447",
+    "SKU": "CK-0365",
+    "Product": "3.5 Inches 7 Steps (1PCE)",
+    "Brand": "Karpagaraja",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1980",
+    "Disc %": "75%",
+    "Rate": "₹495.00"
+  },
+  {
+    "#": "456",
+    "SKU": "CK-0552",
+    "Product": "3.5 Inches Pipe (1PCE)",
+    "Brand": "Crackerskart",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹924",
+    "Disc %": "75%",
+    "Rate": "₹231.00"
+  },
+  {
+    "#": "457",
+    "SKU": "CK-0553",
+    "Product": "3.5 Inches Pipe (1PCE)",
+    "Brand": "Pandeyan",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1100",
+    "Disc %": "75%",
+    "Rate": "₹275.00"
+  },
+  {
+    "#": "458",
+    "SKU": "CK-0315",
+    "Product": "3.5 Inches Pipe (2PCS)Car Series",
+    "Brand": "Sri Kaalai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2860",
+    "Disc %": "75%",
+    "Rate": "₹715.00"
+  },
+  {
+    "#": "459",
+    "SKU": "CK-0316",
+    "Product": "3.5 Inches Pipe (3PCS)Bike Series",
+    "Brand": "Sri Kaalai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹4224",
+    "Disc %": "75%",
+    "Rate": "₹1056.00"
+  },
+  {
+    "#": "461",
+    "SKU": "CK-0076",
+    "Product": "3.5 Inches World Series (2PCS)",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹3146",
+    "Disc %": "75%",
+    "Rate": "₹786.50"
+  },
+  {
+    "#": "464",
+    "SKU": "CK-0463",
+    "Product": "3 Inches Magic World (1PCE)",
+    "Brand": "Vadakampatti",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1430",
+    "Disc %": "75%",
+    "Rate": "₹357.50"
+  },
+  {
+    "#": "465",
+    "SKU": "CK-0579",
+    "Product": "3 Inches Octopus Series (2PCS)",
+    "Brand": "Sonny",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹4620",
+    "Disc %": "75%",
+    "Rate": "₹1155.00"
+  },
+  {
+    "#": "466",
+    "SKU": "CK-0276",
+    "Product": "3 Inches Pipe (1PCE)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1430",
+    "Disc %": "75%",
+    "Rate": "₹357.50"
+  },
+  {
+    "#": "467",
+    "SKU": "CK-0282",
+    "Product": "4.5 Inches Pipe Jumbo (2PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹4180",
+    "Disc %": "75%",
+    "Rate": "₹1045.00"
+  },
+  {
+    "#": "472",
+    "SKU": "CK-0279",
+    "Product": "4 Inches Double Ball (1PCE)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2486",
+    "Disc %": "75%",
+    "Rate": "₹621.50"
+  },
+  {
+    "#": "473",
+    "SKU": "CK-0318",
+    "Product": "4 Inches Double Ball (1PCE)Kaalai Brand",
+    "Brand": "Sri Kaalai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1980",
+    "Disc %": "75%",
+    "Rate": "₹495.00"
+  },
+  {
+    "#": "474",
+    "SKU": "CK-0317",
+    "Product": "4 Inches Pipe (1PCE)Kaalai Brand",
+    "Brand": "Sri Kaalai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1716",
+    "Disc %": "75%",
+    "Rate": "₹429.00"
+  },
+  {
+    "#": "475",
+    "SKU": "CK-0554",
+    "Product": "4 Inches Pipe (2PCS)",
+    "Brand": "Pandeyan",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹3080",
+    "Disc %": "75%",
+    "Rate": "₹770.00"
+  },
+  {
+    "#": "476",
+    "SKU": "CK-0080",
+    "Product": "4 Inches Pipe Crackling Diamond",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2310",
+    "Disc %": "75%",
+    "Rate": "₹577.50"
+  },
+  {
+    "#": "477",
+    "SKU": "CK-0081",
+    "Product": "4 Inches Pipe Double Helix",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2310",
+    "Disc %": "75%",
+    "Rate": "₹577.50"
+  },
+  {
+    "#": "478",
+    "SKU": "CK-0079",
+    "Product": "4 Inches Pipe Eiffel Tower",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2310",
+    "Disc %": "75%",
+    "Rate": "₹577.50"
+  },
+  {
+    "#": "479",
+    "SKU": "CK-0078",
+    "Product": "4 Inches Pipe Pop Princess",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2310",
+    "Disc %": "75%",
+    "Rate": "₹577.50"
+  },
+  {
+    "#": "481",
+    "SKU": "CK-0280",
+    "Product": "4 Inches Turbo (1PCE)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹2024",
+    "Disc %": "75%",
+    "Rate": "₹506.00"
+  },
+  {
+    "#": "482",
+    "SKU": "CK-0281",
+    "Product": "4 Inches Turbo (2PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹3740",
+    "Disc %": "75%",
+    "Rate": "₹935.00"
+  },
+  {
+    "#": "488",
+    "SKU": "CK-0082",
+    "Product": "5th Sense",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹3916",
+    "Disc %": "75%",
+    "Rate": "₹979.00"
+  },
+  {
+    "#": "489",
+    "SKU": "CK-0083",
+    "Product": "6th Sense",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹3916",
+    "Disc %": "75%",
+    "Rate": "₹979.00"
+  },
+  {
+    "#": "492",
+    "SKU": "CK-0360",
+    "Product": "7 Shot (5PCS)",
+    "Brand": "Karpagaraja",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹484",
+    "Disc %": "75%",
+    "Rate": "₹121.00"
+  },
+  {
+    "#": "494",
+    "SKU": "CK-0545",
+    "Product": "7 Thunder",
+    "Brand": "Power King",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "495",
+    "SKU": "CK-0481",
+    "Product": "7-Steps",
+    "Brand": "Varshini",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "496",
+    "SKU": "CK-0084",
+    "Product": "7th Sense",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹3916",
+    "Disc %": "75%",
+    "Rate": "₹979.00"
+  },
+  {
+    "#": "503",
+    "SKU": "CK-0379",
+    "Product": "Chotta Pipe (1PCE)",
+    "Brand": "Amarnath",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹158",
+    "Disc %": "75%",
+    "Rate": "₹39.60"
+  },
+  {
+    "#": "504",
+    "SKU": "CK-0274",
+    "Product": "Colour Celebration (5PCS)",
+    "Brand": "Sri Vijai",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹858",
+    "Disc %": "75%",
+    "Rate": "₹214.50"
+  },
+  {
+    "#": "509",
+    "SKU": "CK-0494",
+    "Product": "Money in the Blast (Sky Shot)",
+    "Brand": "Power King",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹660",
+    "Disc %": "75%",
+    "Rate": "₹165.00"
+  },
+  {
+    "#": "510",
+    "SKU": "CK-0361",
+    "Product": "Penta",
+    "Brand": "Karpagaraja",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹572",
+    "Disc %": "75%",
+    "Rate": "₹143.00"
+  },
+  {
+    "#": "513",
+    "SKU": "CK-0068",
+    "Product": "Pogo Gold",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "514",
+    "SKU": "CK-0070",
+    "Product": "Pogo Red & Green",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "515",
+    "SKU": "CK-0069",
+    "Product": "Pogo Silver",
+    "Brand": "Krishna",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "517",
+    "SKU": "CK-0167",
+    "Product": "Sky 5 (Penta)",
+    "Brand": "Asok",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1122",
+    "Disc %": "75%",
+    "Rate": "₹280.50"
+  },
+  {
+    "#": "519",
+    "SKU": "CK-0477",
+    "Product": "Wolverine-7 Steps",
+    "Brand": "Ajantha",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹1980",
+    "Disc %": "75%",
+    "Rate": "₹495.00"
+  },
+  {
+    "#": "520",
+    "SKU": "CK-0480",
+    "Product": "Wow Mines 2.5 Inches (1PCE)",
+    "Brand": "Wow Star",
+    "Category": "Single Piece Sky Shots",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "532",
+    "SKU": "CK-0009",
+    "Product": "12CM Electric Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹88",
+    "Disc %": "75%",
+    "Rate": "₹22.00"
+  },
+  {
+    "#": "533",
+    "SKU": "CK-0176",
+    "Product": "12CM Electric Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹176",
+    "Disc %": "75%",
+    "Rate": "₹44.00"
+  },
+  {
+    "#": "534",
+    "SKU": "CK-0010",
+    "Product": "12CM Glittering Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹97",
+    "Disc %": "75%",
+    "Rate": "₹24.20"
+  },
+  {
+    "#": "535",
+    "SKU": "CK-0177",
+    "Product": "12CM Glittering Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹189",
+    "Disc %": "75%",
+    "Rate": "₹47.30"
+  },
+  {
+    "#": "536",
+    "SKU": "CK-0011",
+    "Product": "12CM Green Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹103",
+    "Disc %": "75%",
+    "Rate": "₹25.85"
+  },
+  {
+    "#": "537",
+    "SKU": "CK-0012",
+    "Product": "12CM Red Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹114",
+    "Disc %": "75%",
+    "Rate": "₹28.60"
+  },
+  {
+    "#": "538",
+    "SKU": "CK-0179",
+    "Product": "12CM Silver Drops",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹246",
+    "Disc %": "75%",
+    "Rate": "₹61.60"
+  },
+  {
+    "#": "539",
+    "SKU": "CK-0178",
+    "Product": "12CM Twin Tone",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "540",
+    "SKU": "CK-0185",
+    "Product": "15CM Bouquet Bonanza",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹2156",
+    "Disc %": "75%",
+    "Rate": "₹539.00"
+  },
+  {
+    "#": "541",
+    "SKU": "CK-0013",
+    "Product": "15CM Electric Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹141",
+    "Disc %": "75%",
+    "Rate": "₹35.20"
+  },
+  {
+    "#": "542",
+    "SKU": "CK-0180",
+    "Product": "15CM Electric Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹286",
+    "Disc %": "75%",
+    "Rate": "₹71.50"
+  },
+  {
+    "#": "543",
+    "SKU": "CK-0014",
+    "Product": "15CM Glittering Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹150",
+    "Disc %": "75%",
+    "Rate": "₹37.40"
+  },
+  {
+    "#": "544",
+    "SKU": "CK-0181",
+    "Product": "15CM Glittering Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹330",
+    "Disc %": "75%",
+    "Rate": "₹82.50"
+  },
+  {
+    "#": "545",
+    "SKU": "CK-0015",
+    "Product": "15CM Green Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹158",
+    "Disc %": "75%",
+    "Rate": "₹39.60"
+  },
+  {
+    "#": "546",
+    "SKU": "CK-0182",
+    "Product": "15CM Green Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹352",
+    "Disc %": "75%",
+    "Rate": "₹88.00"
+  },
+  {
+    "#": "547",
+    "SKU": "CK-0184",
+    "Product": "15CM Mayajaal",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹418",
+    "Disc %": "75%",
+    "Rate": "₹104.50"
+  },
+  {
+    "#": "548",
+    "SKU": "CK-0016",
+    "Product": "15CM Red Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹176",
+    "Disc %": "75%",
+    "Rate": "₹44.00"
+  },
+  {
+    "#": "549",
+    "SKU": "CK-0183",
+    "Product": "15CM Red Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹396",
+    "Disc %": "75%",
+    "Rate": "₹99.00"
+  },
+  {
+    "#": "550",
+    "SKU": "CK-0186",
+    "Product": "25CM Rotating Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹968",
+    "Disc %": "75%",
+    "Rate": "₹242.00"
+  },
+  {
+    "#": "551",
+    "SKU": "CK-0017",
+    "Product": "30CM Electric Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹141",
+    "Disc %": "75%",
+    "Rate": "₹35.20"
+  },
+  {
+    "#": "553",
+    "SKU": "CK-0018",
+    "Product": "30CM Glittering Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹150",
+    "Disc %": "75%",
+    "Rate": "₹37.40"
+  },
+  {
+    "#": "555",
+    "SKU": "CK-0019",
+    "Product": "30CM Green Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹158",
+    "Disc %": "75%",
+    "Rate": "₹39.60"
+  },
+  {
+    "#": "558",
+    "SKU": "CK-0020",
+    "Product": "30CM Red Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹176",
+    "Disc %": "75%",
+    "Rate": "₹44.00"
+  },
+  {
+    "#": "560",
+    "SKU": "CK-0021",
+    "Product": "50CM Electric Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹638",
+    "Disc %": "75%",
+    "Rate": "₹159.50"
+  },
+  {
+    "#": "561",
+    "SKU": "CK-0192",
+    "Product": "50CM Electric Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹880",
+    "Disc %": "75%",
+    "Rate": "₹220.00"
+  },
+  {
+    "#": "562",
+    "SKU": "CK-0023",
+    "Product": "50CM Glittering Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "563",
+    "SKU": "CK-0193",
+    "Product": "50CM Glittering Sparklers",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹990",
+    "Disc %": "75%",
+    "Rate": "₹247.50"
+  },
+  {
+    "#": "564",
+    "SKU": "CK-0022",
+    "Product": "50CM Green Sparklers",
+    "Brand": "Devasri",
+    "Category": "Sparklers",
+    "MRP": "₹792",
+    "Disc %": "75%",
+    "Rate": "₹198.00"
+  },
+  {
+    "#": "565",
+    "SKU": "CK-0194",
+    "Product": "50CM Mix Trix",
+    "Brand": "Asok",
+    "Category": "Sparklers",
+    "MRP": "₹990",
+    "Disc %": "75%",
+    "Rate": "₹247.50"
+  },
+  {
+    "#": "574",
+    "SKU": "CK-0155",
+    "Product": "1.5 Inches Jil Jil",
+    "Brand": "Asok",
+    "Category": "Twinkling Stars",
+    "MRP": "₹220",
+    "Disc %": "75%",
+    "Rate": "₹55.00"
+  },
+  {
+    "#": "575",
+    "SKU": "CK-0389",
+    "Product": "1.5 Inches Twinkling Star",
+    "Brand": "Showmya Narayana",
+    "Category": "Twinkling Stars",
+    "MRP": "₹79",
+    "Disc %": "75%",
+    "Rate": "₹19.80"
+  },
+  {
+    "#": "576",
+    "SKU": "CK-0390",
+    "Product": "4 Inches Twinkling Star",
+    "Brand": "Showmya Narayana",
+    "Category": "Twinkling Stars",
+    "MRP": "₹264",
+    "Disc %": "75%",
+    "Rate": "₹66.00"
+  },
+  {
+    "#": "222",
+    "SKU": "CK-0565",
+    "Product": "22 Items Gift Box",
+    "Brand": "Crackerskart",
+    "Category": "Gift Boxes",
+    "MRP": "₹1320",
+    "Disc %": "75%",
+    "Rate": "₹330.00"
+  },
+  {
+    "#": "223",
+    "SKU": "CK-0566",
+    "Product": "26 Items Gift Box",
+    "Brand": "Crackerskart",
+    "Category": "Gift Boxes",
+    "MRP": "₹1650",
+    "Disc %": "75%",
+    "Rate": "₹412.50"
+  },
+  {
+    "#": "224",
+    "SKU": "CK-0567",
+    "Product": "32 Items Gift Box",
+    "Brand": "Crackerskart",
+    "Category": "Gift Boxes",
+    "MRP": "₹1980",
+    "Disc %": "75%",
+    "Rate": "₹495.00"
+  },
+  {
+    "#": "225",
+    "SKU": "CK-0568",
+    "Product": "36 Items Gift Box",
+    "Brand": "Crackerskart",
+    "Category": "Gift Boxes",
+    "MRP": "₹2640",
+    "Disc %": "75%",
+    "Rate": "₹660.00"
+  },
+  {
+    "#": "226",
+    "SKU": "CK-0569",
+    "Product": "42 Items Gift Box",
+    "Brand": "Crackerskart",
+    "Category": "Gift Boxes",
+    "MRP": "₹3300",
+    "Disc %": "75%",
+    "Rate": "₹825.00"
+  },
+  {
+    "#": "227",
+    "SKU": "CK-0570",
+    "Product": "52 Items Gift Box",
+    "Brand": "Crackerskart",
+    "Category": "Gift Boxes",
+    "MRP": "₹4400",
+    "Disc %": "75%",
+    "Rate": "₹1100.00"
+  },
+  {
+    "#": "228",
+    "SKU": "CK-0103",
+    "Product": "Day & Night",
+    "Brand": "Krishna",
+    "Category": "Gift Boxes",
+    "MRP": "₹5170",
+    "Disc %": "75%",
+    "Rate": "₹1292.50"
+  },
+  {
+    "#": "229",
+    "SKU": "CK-0105",
+    "Product": "Elegance",
+    "Brand": "Krishna",
+    "Category": "Gift Boxes",
+    "MRP": "₹8140",
+    "Disc %": "75%",
+    "Rate": "₹2035.00"
+  },
+  {
+    "#": "230",
+    "SKU": "CK-0104",
+    "Product": "Premium",
+    "Brand": "Krishna",
+    "Category": "Gift Boxes",
+    "MRP": "₹7040",
+    "Disc %": "75%",
+    "Rate": "₹1760.00"
+  }
+]
