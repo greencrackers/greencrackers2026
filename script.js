@@ -93,7 +93,7 @@ function closeModal() {
 }
 
 function shareStoreOnWhatsApp() {
-    const siteUrl = window.location.href;
+    const siteUrl = "https://greencrackers.github.io/greencrackers2026/";
 
     const promoText =
         `*GREEN CRACKERS - சிவகாசி*
