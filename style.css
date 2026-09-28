@@ -41,6 +41,25 @@ body {
     background: #1eb854;
 }
 
+.download-pricelist-btn {
+    display: inline-block;
+    background: #ffe600;
+    color: #1a4314;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 10px;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.15s ease;
+}
+
+.download-pricelist-btn:active {
+    transform: scale(0.95);
+}
+
 .container {
     padding: 0 12px;
     max-width: 600px;
